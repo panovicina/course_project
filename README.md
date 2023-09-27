@@ -9,5 +9,5 @@ _preparing_ - содержит материалы, используемые дл
 _numerical_method_ - содержит результаты численного метода;  
 _simulations_ - содержит рещультаты симуляций;  
 _docs_ - содержит отчет и презентацию для защиты.  
-Репозиторий с кодом запуска симуляций: [https://github.com/YegorGalkin/RcppSim/tree/master](https://github.com/YegorGalkin/RcppSim/tree/master)
+Репозиторий с кодом запуска симуляций: [https://github.com/YegorGalkin/RcppSim/tree/master](https://github.com/YegorGalkin/RcppSim/tree/master)  
 Ссылка на код численных методов: [https://bitbucket.org/Alolag/nonlinearsolver/src/master/](https://bitbucket.org/Alolag/nonlinearsolver/src/master/)
